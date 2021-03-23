@@ -26,4 +26,14 @@
 <img width="200" alt="Screen Shot 2021-03-23 at 23 36 29" src="https://user-images.githubusercontent.com/34444804/112164516-48f16d80-8c31-11eb-9fe4-ffdf5f236047.png">
 </p>
 
+- Coin Price Display
+
+<p float="left">
+<img width="200" alt="Screen Shot 2021-03-23 at 23 59 15" src="https://user-images.githubusercontent.com/34444804/112168015-4a706500-8c34-11eb-91a7-83a9cf11a632.png">
+<img width="200" alt="Screen Shot 2021-03-24 at 0 00 03" src="https://user-images.githubusercontent.com/34444804/112168029-4cd2bf00-8c34-11eb-9b6a-6ad24dff20b0.png">
+</p>
+
+
+
+
 
