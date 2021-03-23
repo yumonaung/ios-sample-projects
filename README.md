@@ -8,3 +8,11 @@
 </p>
 
 
+- BMI Calculator
+
+<p float="left">
+ <img width="200" alt="Screen Shot 2021-03-23 at 23 14 52" src="https://user-images.githubusercontent.com/34444804/112161441-80124f80-8c2e-11eb-800c-a38815be0291.png">
+<img width="200" alt="Screen Shot 2021-03-23 at 23 15 55" src="https://user-images.githubusercontent.com/34444804/112161449-81dc1300-8c2e-11eb-85e4-8acc790a6316.png">
+<img width="200" alt="Screen Shot 2021-03-23 at 23 16 43" src="https://user-images.githubusercontent.com/34444804/112161453-830d4000-8c2e-11eb-824c-d550fcdcb42c.png">
+<img width="200" alt="Screen Shot 2021-03-23 at 23 17 21" src="https://user-images.githubusercontent.com/34444804/112161457-83a5d680-8c2e-11eb-92a2-703568ef809a.png">
+</p>
